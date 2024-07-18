@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import React, { Component } from "react";
 import Modal from "./components/Modal";
+import "./components/Background.css";
 import axios from "axios";
 
 class App extends Component {
