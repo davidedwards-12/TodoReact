@@ -2,7 +2,7 @@
 
 Simple todo website that uses Django and React
 
-To run the website:
+## Deployment
  - Have two terminals open, one for on the backend and one for the frontend.
  - In the backend terminal, navigate to the backend folder (cd todo-react/backend).
  - In the frontend terminal, navigate to the front folder (cd todo-react/frontend).
